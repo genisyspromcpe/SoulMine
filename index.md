@@ -1,4 +1,4 @@
-## SoulMine
+# SoulMine
 
 Пожалуйста, перейдите [сюда](http://smine.ml).
 
